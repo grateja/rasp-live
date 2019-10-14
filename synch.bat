@@ -1,0 +1,1 @@
+D:\xampp\php\php.exe D:\xampp\htdocs\csi-2019\artisan synch:update
